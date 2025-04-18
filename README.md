@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://mohamadbiomy.github.io/social-media-dashboard/)
 
 ## My process
 
